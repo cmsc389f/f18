@@ -12,7 +12,7 @@ Create the page in markdown, then add this footer:
 
 ## Page options
 
-### Add page header
+### Add page title
 Use bold text at top of markdown page
 
 ### Hide page numbers
