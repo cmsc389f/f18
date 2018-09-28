@@ -1,7 +1,7 @@
 #!/bin/bash
 
-info=$(git status -s)
+info="published at $(date)\n$(git status -s)"
 git add -A
 echo "$info"
-git commit -m "published at $(date)"
+git commit -m "$info"
 git push
