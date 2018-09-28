@@ -5,3 +5,5 @@ git add -A
 echo "$info"
 git commit -m "$info"
 git push
+
+open 'http://cmsc389f.umd.edu'
