@@ -6,4 +6,5 @@ echo "$info"
 git commit -m "$info"
 git push
 
+echo ""
 echo 'http://cmsc389f.umd.edu'
